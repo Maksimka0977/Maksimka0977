@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maks</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">I am a beginner web developer, I like to create websites and web applications. I take my work very seriously, very enthusiastically because I like to do it</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maksimka0977](https://github.com/Maksimka0977)
 
-- 📫 How to reach me **userrlix@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
